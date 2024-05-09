@@ -1,6 +1,5 @@
 ## Welcome to GitHub Games - Omar Vásquez
-## prueba
-A project based learning activity for people who are getting started with Git and GitHub.
+A project based learning activity for people who are getting started with Git and GitHub. CAMBIO L.O.
 
 You can play the game at: https://githubschool.github.io/github-games/
 
