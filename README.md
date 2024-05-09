@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games - Omar Vásquez
 A project based learning activity for people who are getting started with Git and GitHub. CAMBIO VS.2
-Aj-2
+Aj-h1
 
 You can play the game at: https://githubschool.github.io/github-games/
 
